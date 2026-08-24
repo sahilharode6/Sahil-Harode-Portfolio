@@ -14,16 +14,7 @@ I'm a Data Analyst with a background in Radiography, certified in **Investment B
 
 ---
 ### 🟡 Power BI Dashboard - View 1
-![Power BI Dashboard 1](Screenshot%202026-08-24%20031656.png)
-
-### 🟡 Power BI Dashboard - View 2
-![Power BI Dashboard 2](Screenshot%202026-08-24%20030616.png)
-
-### 🟦 Tableau Dashboard
 ![Tableau Dashboard](Screenshot%202026-08-24%20030448.png)
-
-### 🟩 Excel Dashboard
-![Excel Dashboard](Screenshot%202026-08-23%20045815.png)
 
 ###  Projects
 * **[Sales Performance Dashboard](https://public.tableau.com/views/sahiltableudashbordcom/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
