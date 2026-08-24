@@ -13,12 +13,11 @@ I'm a Data Analyst with a background in Radiography, certified in **Investment B
 * **Domain Expertise:** Investment Banking, Capital Markets, Financial Modeling, Data Storytelling
 
 ---
-![Power BI Dashboard View 1](Screenshot%202026-08-24%20030448.png)
+![Power BI Dashboard View1](Screenshot%202026-08-24%20030448.png)
 
-![Power BI Dashboard View 2](Screenshot%202026-08-24%20030616.png)
+![Power BI Dashboard View2](Screenshot%202026-08-24%20030616.png)
 
-[Download Tableau Workbook](sahil%20tableu%20dashbord%20com.twbx)
-
+![dashboard preview](./Screenshot%202026-08-23%20045815.png)
 
 ###  Projects
 * **[Sales Performance Dashboard](https://public.tableau.com/views/sahiltableudashbordcom/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
